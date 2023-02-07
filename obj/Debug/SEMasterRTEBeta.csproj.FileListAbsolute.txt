@@ -1,0 +1,13 @@
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\bin\Debug\SEMasterRTEBeta.exe.config
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\bin\Debug\SEMasterRTEBeta.exe
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\bin\Debug\SEMasterRTEBeta.pdb
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.csproj.AssemblyReference.cache
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.Properties.Resources.resources
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.csproj.GenerateResource.cache
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.csproj.CoreCompileInputs.cache
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.exe
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.pdb
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\bin\Debug\Guna.UI2.dll
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.csproj.CopyComplete
+C:\Users\Quill\source\repos\SEMasterRTEBeta\SEMasterRTEBeta\obj\Debug\SEMasterRTEBeta.SEMaster.resources
